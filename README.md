@@ -13,5 +13,5 @@ On the server side or the computer that runs the chatle_server.py , execute belo
 <br />
 
 ```md
-python3 chatle_client.py
+> python3 chatle_client.py
 ```
