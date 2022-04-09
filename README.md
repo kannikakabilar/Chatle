@@ -11,8 +11,7 @@ On the server side or the computer that runs the chatle_server.py , execute belo
 > python3 chatle_server.py
 ```
 <br />
-On the client side, the chatle_client.py must be modified, the value of SERVER_HOST must be set to the IPv4 address of the server. Any client who wants to connect and run the application can run the below command from their own terminal. 
-<br />
+
 ```md
-> python3 chatle_client.py
+python3 chatle_client.py
 ```
