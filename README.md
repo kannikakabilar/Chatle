@@ -3,7 +3,7 @@ Chatle is a program that allows you to play Wordle while chatting with friends a
 
 # How to Run
 Python 3.8 must be installed. The program will also utilize the colorama library.
-> pip install colorama <br />
+> pip install colorama <br /> <
 On the server side or the computer that runs the chatle_server.py , execute below command in the terminal. <br />
 > python3 chatle_server.py <br />
 On the client side, the chatle_client.py must be modified, the value of SERVER_HOST must be set to the IPv4 address of the server. Any client who wants to connect and run the application can run the below command from their own terminal. <br />
